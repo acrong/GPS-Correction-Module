@@ -1,4 +1,3 @@
-package com.example.oss_client6;
 
 /*
  * This Module Stabilizes GPS Error by 
