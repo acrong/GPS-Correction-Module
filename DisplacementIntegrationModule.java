@@ -1,5 +1,3 @@
-package com.example.oss_client6;
-
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorManager;
